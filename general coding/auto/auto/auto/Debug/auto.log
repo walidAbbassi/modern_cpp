@@ -1,0 +1,5 @@
+﻿  auto.cpp
+c:\users\acer\desktop\modern_c++\general coding\auto\auto\auto\auto.cpp(63): warning C4101: 's' : variable locale non référencée
+c:\users\acer\desktop\modern_c++\general coding\auto\auto\auto\auto.cpp(17): warning C4172: retourne l'adresse d'une variable locale ou : x temporaire
+c:\users\acer\desktop\modern_c++\general coding\auto\auto\auto\auto.cpp(12): warning C4172: retourne l'adresse d'une variable locale ou : x temporaire
+  auto.vcxproj -> C:\Users\ACER\Desktop\modern_c++\general coding\auto\auto\Debug\auto.exe
