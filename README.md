@@ -3,7 +3,7 @@
 ## Overview
 Many of these descriptions and examples come from various resources (see [Acknowledgements](#acknowledgements) section), summarized in my own words.
 
-Also, there are now dedicated readme pages for each major C++ version.
+Also, there are now example project visual studio 2017
 
 C++11 includes the following new language features:
 - [move semantics](#move-semantics)
