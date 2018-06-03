@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  const.cpp
+c:\users\acer\cpp-workspace\modern_c++\general coding\const\const\const.cpp(82): warning C4101: 'Y' : variable locale non référencée
+  const.vcxproj -> C:\Users\ACER\cpp-workspace\modern_c++\general coding\const\Debug\const.exe
