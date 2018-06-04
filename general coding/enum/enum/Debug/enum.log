@@ -1,0 +1,4 @@
+﻿  enum.cpp
+c:\users\acer\cpp-workspace\modern_c++\general coding\enum\enum\enum.cpp(25): warning C4091: 'static ' : ignoré à gauche de 'Sirene::Etat' quand aucune variable n'est déclarée
+c:\users\acer\cpp-workspace\modern_c++\general coding\enum\enum\enum.cpp(55): warning C4101: 'd' : variable locale non référencée
+  enum.vcxproj -> C:\Users\ACER\cpp-workspace\modern_c++\general coding\enum\Debug\enum.exe
